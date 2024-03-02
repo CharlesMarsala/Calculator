@@ -1,1 +1,1 @@
-This is my read me
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{CharlesMarsala}/{Calculator})
